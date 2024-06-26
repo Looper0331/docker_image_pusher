@@ -1,2 +1,1 @@
-registry.rocket.chat/rocketchat/rocket.chat:latest
-docker.io/bitnami/mongodb:5.0
+ghcr.io/open-webui/open-webui:main
